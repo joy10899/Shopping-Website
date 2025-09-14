@@ -1,0 +1,15 @@
+{
+    "cSpell.language": "en",
+    "cSpell.enabled": true,
+    "cSpell.words": [],
+    "cSpell.ignorePaths": [
+        "**/node_modules/**",
+        "**/dist/**",
+        "**/build/**",
+        "**/.git/**"
+    ],
+    "cSpell.allowCompoundWords": true,
+    "cSpell.checkLimit": 10000,
+    "cSpell.checkAttributes": true,
+    "cSpell.checkAsYouType": true
+}
